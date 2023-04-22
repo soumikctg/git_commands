@@ -2,8 +2,11 @@
 
 # for 1st time setup::::::
 git config --global user.name "soumikctg"
+#
 git config --global user.email "soumikctg616@gmail.com"
+#
 git config --global push.default matching
+#
 git config --global alias.co checkout
 
 
